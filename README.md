@@ -16,13 +16,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8900F7&center=true&vCenter=true&width=435&lines=Multimedia+Engineering;Full+Stack+Web+Developer;Interface+Designer;Creative+Developer;Lifelong+Learner;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
+
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me</h2>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      Soy estudiante de <strong>Ingeniería Multimedia</strong> en <strong>Cartagena, Colombia</strong>, apasionado por construir <strong>aplicaciones web</strong> y crear <strong>experiencias digitales</strong>. Trabajo en desarrollo <strong>frontend</strong> y <strong>backend</strong>, y también tengo un fuerte interés en el <strong>arte 3D</strong> y la <strong>animación</strong>.
+    </td>
+    <td>
+      <img width="500" src="https://github.com/InsomniaSomnia/InsomniaSomnia/blob/main/img/Apple_pc.png">
+    </td>
+  </tr>
+</table>
+
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me </h2>
-
-Soy estudiante de **Ingeniería Multimedia** en **Cartagena, Colombia**, apasionado por construir **aplicaciones web** y crear **experiencias digitales**. Trabajo en desarrollo **frontend** y **backend**, y también tengo un fuerte interés en el **arte 3D** y la **animación**.
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills</h2>
 
