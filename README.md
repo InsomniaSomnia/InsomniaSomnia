@@ -1,4 +1,7 @@
 <p align="center">
+    <img width="2000" src="https://github.com/InsomniaSomnia/InsomniaSomnia/blob/main/img/gitbub_better.png">
+</p>
+<p align="center">
     <img width="250" src="https://github.com/InsomniaSomnia/InsomniaSomnia/blob/main/img/Better_img.png">
 </p>
 
@@ -18,13 +21,16 @@
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me </h2>
-Soy estudiante de Ingeniería Multimedia en *Cartagena, Colombia*, apasionado por construir aplicaciones web y crear experiencias digitales. Trabajo en desarrollo **frontend y backend**, y también tengo un fuerte interés en el arte **3D y la animación**.
+
+Soy estudiante de **Ingeniería Multimedia** en **Cartagena, Colombia**, apasionado por construir **aplicaciones web** y crear **experiencias digitales**. Trabajo en desarrollo **frontend** y **backend**, y también tengo un fuerte interés en el **arte 3D** y la **animación**.
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills</h2>
 
 <h2>Operating Systems</h1>
 
 <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+
 
 
 
