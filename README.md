@@ -41,8 +41,6 @@
   </a>
 </p>
 
-<h2>.</h2>
-
 <h3 align="center">Programs</h3>
 <p align="center">
   <a href="https://skillicons.dev">
