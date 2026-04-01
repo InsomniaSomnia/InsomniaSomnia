@@ -9,7 +9,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8900F7&center=true&vCenter=true&width=435&lines=Multimedia+Engineering;Full+Stack+Web+Developer;Interface+Designer;Creative+Developer;Lifelong+Learner;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
-<br>
 <!-- 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
